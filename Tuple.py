@@ -1,5 +1,5 @@
 # 20CE029 Misari Gami
-# GitHub repository link :
+# GitHub repository link : https://github.com/MisariGami/Pra2/blob/main/Tuple.py
 
 # a. Write a Python program to create a tuple with different data types.
 tuple = ('Janvi', 12, 7.01, True)
